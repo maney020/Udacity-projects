@@ -1,2 +1,2 @@
 # Udacity-projects
-Projects i created while studying Nanodegree program
+Projects i created while studying Machine-Learning Nanodegree program
